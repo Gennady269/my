@@ -1,0 +1,13 @@
+Student:
+  name: Pedro
+  age: 22
+Teacher:
+  name: Hans
+  age: 49
+Friends:
+  -
+    Igor
+  -
+    Maria
+married: fals
+dog: null
