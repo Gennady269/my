@@ -1,0 +1,12 @@
+<Student>
+    <name>Pedro</name>
+    <age>22</age>
+</Student>
+<Teacher>
+<name>Hans</name>
+<age>49</age>
+</Teacher>
+<Friends>Igor</Friends>
+<Friends>Maria</Friends>
+<married>fals</married>
+<dog />
