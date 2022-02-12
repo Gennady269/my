@@ -1,0 +1,10 @@
+Student:
+  name: Pedro
+  age: 22
+  married: false
+  dog: null
+communication:
+  - Teacher
+  - Friends
+  - - Igor
+  - - Maria
