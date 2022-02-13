@@ -1,0 +1,14 @@
+<Student>
+	<name>Pedro</name>
+	<age>22</age>
+	<married/>
+	<dog/>
+</Student>
+<communication>
+	<item0>Teacher</item0>
+	<item1>Friends</item1>
+	<item2>
+		<item0>Igor</item0>
+		<item1>Maria</item1>
+	</item2>
+</communication>
