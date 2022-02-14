@@ -1,6 +1,5 @@
 {
     "Student":{
-    
       "name":"Pedro",
       "age":22,
       "married":false,
@@ -12,7 +11,7 @@
       [
         "Igor",
         "Maria"
-     
       ]
     ]
-}
+  }
+
